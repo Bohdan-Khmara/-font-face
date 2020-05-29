@@ -1,0 +1,27 @@
+@import "assets/fonts/fonts.css";
+@import "assets/css/reset.css";
+
+h1 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+h2 {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 400;
+}
+
+h3 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+}
+
+h4 {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 700;
+}
